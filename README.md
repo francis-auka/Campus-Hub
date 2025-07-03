@@ -9,7 +9,7 @@ Built for the **Vibe Coding Hackathon 2025**, CampusHuB empowers students with s
 
 ## 🚀 Live Demo
 
-👉 [View CampusHuB Live]https://stately-swan-de854d.netlify.app/
+👉 [View CampusHuB Live](https://stately-swan-de854d.netlify.app/)
 
 🎥 [Watch Demo Video](https://YOUR-VIDEO-LINK.com)
 
