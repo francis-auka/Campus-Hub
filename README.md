@@ -1,110 +1,121 @@
-```markdown
 # 🌐 CampusHuB
 
-**CampusHuB** is a web-based service marketplace designed specifically for university students. It enables students to **offer services**, **hire fellow students**, and **earn money on campus** in a fast, safe, and peer-powered environment.
+**CampusHuB** is a campus-focused service marketplace where university students can **offer**, **hire**, and **earn** from everyday services in a fast, safe, and student-powered environment.
 
-Built for the **Vibe Coding Hackathon 2025**, CampusHuB empowers students with skills to monetize their talents while helping others get tasks done affordably.
+Built during the **Vibe Coding Hackathon 2025**, it enables peer-to-peer freelancing and gig work — from tutoring and tech support to laundry and errands — all within the campus community.
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [View CampusHuB Live](https://stately-swan-de854d.netlify.app/)
-
-🎥 [Watch Demo Video](https://drive.google.com/file/d/1VjS680_PQ2hHLB31jeBv8nA04fBTEzKd/view?usp=sharing)
-
----
-
-## 📌 Features
-
-- 🛍️ **Service Marketplace** – Browse or post services like tutoring, laundry, errands, tech help, and more  
-- ⚡ **Instant Service Posting** – Fast, form-based listing of your service with price and contact info  
-- 📱 **Mobile-First Design** – Works great on mobile and desktop  
-- 🔒 **Student-Focused** – Built for university use; future versions will support email verification & reviews  
-- 💸 **Commission Model** – CampusHuB keeps 5% of each transaction for sustainability
+- 🌍 **Website:** [campushub.netlify.app](https://stately-swan-de854d.netlify.app/)  
+- 🎬 **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1VjS680_PQ2hHLB31jeBv8nA04fBTEzKd/view?usp=sharing)
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-- **Frontend:** React.js (with Vite)
+- 🛍️ **Service Marketplace** – Post or find services like tutoring, laundry, errands, and more  
+- ⚡ **Quick Listings** – Add services instantly with title, price, and contact  
+- 📱 **Responsive Design** – Mobile-first layout for on-the-go access  
+- 🔒 **Campus-Only Focus** – Future versions will include email verification & reviews  
+- 💰 **Revenue Model** – 5% commission for platform sustainability
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** React.js + Vite  
 - **Styling:** Tailwind CSS  
-- **Backend:** (Planned: Supabase or Firebase)  
+- **Planned Backend:** Supabase / Firebase  
 - **Deployment:** Netlify / Vercel  
-- **Others:** HTML5, TypeScript
+- **Languages:** TypeScript, HTML5
 
 ---
 
-## 📂 Folder Structure
+## 📁 Folder Structure
 
 ```
-📁 src/
-│  ├─ 📄 main.tsx
-│  ├─ 📁 components/
-│  ├─ 📁 pages/
-│  ├─ 📁 utils/
-│  └─ 📁 assets/
-📄 index.html
+📦 src/
+├── main.tsx
+├── components/
+├── pages/
+├── utils/
+└── assets/
+index.html
 ```
 
 ---
 
-## 💡 How It Works
+## 🧠 How It Works
 
-1. **Users sign in (or optionally stay anonymous)**
-2. Browse services by category or location
-3. Post a service by filling a short form
-4. Request a service directly via contact info
-5. Future versions will support secure in-app transactions, verified emails, and reviews
-
----
-
-## 🌍 Target Audience
-
-- University students looking to earn money or get small tasks done
-- Campus-based communities seeking affordable, fast service solutions
+1. Users sign in (or continue anonymously)
+2. Browse or filter services by type or location
+3. Post a service using a simple form
+4. Contact a service provider via listed details
+5. Future updates will add:
+   - In-app payments
+   - Verified student emails
+   - Service reviews & ratings
 
 ---
 
-## 🎯 Vision
+## 🎯 Target Audience
 
-To become the go-to platform for peer-to-peer student freelancing and micro-gigs across campuses in Kenya and beyond.
+- University students with skills to offer
+- Campus communities looking for fast, affordable services
+- Student freelancers looking to earn money on the side
 
 ---
 
-## 📦 Installation & Local Development
+## 🌱 Vision
+
+To become the go-to campus platform for **peer-to-peer freelancing** and **student micro-gigs** in Kenya — and eventually across Africa.
+
+---
+
+## 💻 Local Development
 
 ```bash
-# Clone the repo
+# Clone the repository
+git clone https://github.com/yourusername/campushub.git
 
+# Navigate to project directory
+cd campushub
 
 # Install dependencies
-cd campushub
 npm install
 
-# Start the development server
+# Start development server
 npm run dev
 ```
 
 ---
 
-## 🤝 Contribution
+## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first.
+We welcome contributions!  
+To contribute:
+
+1. Fork the repository  
+2. Create a feature branch (`git checkout -b feature/YourFeature`)  
+3. Commit your changes  
+4. Open a pull request
+
+For major changes, please open an issue first to discuss.
 
 ---
 
 ## 📬 Contact
 
 **Built by:** Francis Auka & Team  
-📧 Email: francisauka7@gmail.com  
-🌐 [NextWebBuilds Website](https://chimerical-lollipop-258d66.netlify.app)  
+📧 Email: [francisauka7@gmail.com](mailto:francisauka7@gmail.com)  
+🌐 [NextWebBuilds Portfolio](https://chimerical-lollipop-258d66.netlify.app)  
 📸 Instagram: [@nextwebbuilds](https://www.instagram.com/nextwebbuilds)  
 🎥 TikTok: [@webmagicwithnext](https://www.tiktok.com/@webmagicwithnext)
 
 ---
 
-## 🏁 License
+## 🪪 License
 
-MIT License. Use, remix, and improve as long as you credit the authors.
-```
+MIT License — feel free to use, remix, and improve. Please credit the original authors.
